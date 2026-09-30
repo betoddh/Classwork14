@@ -1168,8 +1168,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterManager
   characters:
   - {fileID: 7498371025637946094, guid: bc1a0c8729a7300489179606989b68fd, type: 3}
-  - {fileID: 7498371025637946094, guid: bc1a0c8729a7300489179606989b68fd, type: 3}
-  - {fileID: 7498371025637946094, guid: bc1a0c8729a7300489179606989b68fd, type: 3}
+  - {fileID: 2439068665720760131, guid: 6b42a1f4df4d9c944a47ccad3a3e3d6d, type: 3}
+  - {fileID: 3954049965020132785, guid: 1c64908c88362404992d246fb5c35a1a, type: 3}
   spawnPoints:
   - {fileID: 1205897560}
   - {fileID: 24089048}
